@@ -1,2 +1,3 @@
-# nplso
-Beschreibung des Repository
+# Nutzungsplanung Kanton Solothurn - Nachführung und Fehlerkorrektur
+
+Anleitung etc.
