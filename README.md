@@ -3,7 +3,7 @@
 ## Workflow
 
  1. Ticketeingang beim Büro per Mail
- 2. Download der Daten vom Kanton
+ 2. Download der Daten vom Kanton (zwingend - Masterdaten liegen beim Kanton)
  3. Import der Daten in lokale Umgebung
  4. Anpassen der Daten
  5. Daten exportieren und als .xtf im GitHub anhängen
